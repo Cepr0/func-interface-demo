@@ -1,1 +1,1 @@
-Some example of using functional interfaces of Java8 with patterns Builder and Factory method.
+Some example of using functional interfaces of Java8 with design patterns.
