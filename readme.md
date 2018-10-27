@@ -1,0 +1,1 @@
+Some example of using functional interfaces of Java8 with patterns Builder and Factory method.
